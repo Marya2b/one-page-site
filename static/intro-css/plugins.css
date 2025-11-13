@@ -378,10 +378,10 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face
-{font-family:"Ionicons";src:url("/static/intro-fonts/ionicons.eot?v=2.0.0");
-    src:url("/static/intro-fonts/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"),
-    url("/static/intro-fonts/ionicons.ttf?v=2.0.0") format("truetype"),url("/static/intro-fonts/ionicons.woff?v=2.0.0") format("woff"),
-    url("/static/intro-fonts/ionicons.svg?v=2.0.0#Ionicons") format("svg");font-weight:normal;font-style:normal}.ion,
+{font-family:"Ionicons";src:url("/static/intro-fonts/ionicons.eot@v=2.0.0");
+    src:url("/static/intro-fonts/ionicons.eot@v=2.0.0") format("embedded-opentype"),
+    url("/static/intro-fonts/ionicons.ttf@v=2.0.0") format("truetype"),url("/static/intro-fonts/ionicons.woff@v=2.0.0") format("woff"),
+    url("/static/intro-fonts/ionicons.svg@v=2.0.0") format("svg");font-weight:normal;font-style:normal}.ion,
     .ionicons,.ion-alert:before,.ion-alert-circled:before,.ion-android-add:before,.ion-android-add-circle:before,.ion-android-alarm-clock:before,
     .ion-android-alert:before,.ion-android-apps:before,.ion-android-archive:before,.ion-android-arrow-back:before,.ion-android-arrow-down:before,
     .ion-android-arrow-dropdown:before,.ion-android-arrow-dropdown-circle:before,
